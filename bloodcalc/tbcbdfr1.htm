@@ -1,0 +1,149 @@
+<html><head>
+<title>ProjectX</title>
+
+<meta name="viewport" content="width=1024" />
+
+
+
+
+<LINK REL=STYLESHEET TYPE="text/css" HREF="assets/smxpcss.css">
+
+<SCRIPT LANGUAGE="Javascript" SRC="assets/smena.js"></SCRIPT>
+<SCRIPT LANGUAGE="Javascript" SRC="assets/smnxjs.js"></SCRIPT>
+<SCRIPT LANGUAGE="Javascript" SRC="assets/smnxfd.js"></SCRIPT>
+<SCRIPT LANGUAGE="Javascript" SRC="assets/smnxf7.js"></SCRIPT>
+<SCRIPT LANGUAGE="Javascript" SRC="assets/mcfx00.js"></SCRIPT>
+<SCRIPT LANGUAGE="Javascript" SRC="assets/mcfxtt.js"></SCRIPT>
+
+<SCRIPT LANGUAGE="Javascript" SRC="assets/smenfd.js"></SCRIPT>
+<SCRIPT LANGUAGE="Javascript" SRC="assets/aasmmn.js"></SCRIPT>
+
+<SCRIPT language="javascript">
+smnxCNT = new Array(fdaax000, fdakx000,tbbaiai0,tbcbdfr1);
+document.title = smnxCNT[3].name + " ("+vUnitConversion+") :: " + smnxCNT[0].name;
+
+
+
+tbcbdfr1o = tbcbdfr1;
+mcepInpts = new Array(tbcbdfr1);
+mcepOtpts = new Array(tbcbdfr1o);
+</SCRIPT>
+</head>
+
+<body bgcolor="#F6F6F6" topmargin="0" leftmargin="0" text="#000000" link="#006699" alink="#6699CC" 
+vlink="#006699" onLoad="this.smnxNLD();"> 
+
+
+<SCRIPT LANGUAGE="Javascript">
+this.smnxcUNOL();
+
+
+function checkValz(val) {
+	if ((isNaN(val)) || (val == null)  || (val == "") || (val < 0) || (val > 999999) ) {
+		alert(msgMC1);
+		smnxform.vtbcbdfr1.value = "";
+		return false;
+	}
+	return true;
+}
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+function CmptFrm(form){  
+
+///////////////////////////////////////////////////////////////////////
+	var wtbcbdfr1 = Number( form.vtbcbdfr1.value);
+	if (!checkValz(wtbcbdfr1)) return false;
+
+////////////cf
+	if (this.tbcbdfr1.inputz != "") {
+	var convfctr3 = this.tbcbdfr1.inputz;
+	} 	
+	else {}
+
+	if (this.tbcbdfr1.name_sp != "") {
+	var convfctr2 = Number(1 / this.tbcbdfr1.name_sp);
+	} 	
+	else {}
+
+
+////////////set and change result value                                   
+///////////////////////////////////////////////////////////////////////  
+	if (form.vtbcbdfr1nts[0].checked) {
+			wtbcbdfr1o = (wtbcbdfr1 * this.tbcbdfr1.cf_cusi);
+			wtbcbdfr1o = roundtd(wtbcbdfr1o,2);
+			wtbcbdfr1oS = wtbcbdfr1o.toString();
+			form.vtbcbdfr1o.value = wtbcbdfr1oS + " " + this.tbcbdfr1.units_si ;
+	}	
+
+	else if (form.vtbcbdfr1nts[1].checked) {
+			wtbcbdfr1o = (wtbcbdfr1 / this.tbcbdfr1.cf_cusi);
+			wtbcbdfr1o = roundtd(wtbcbdfr1o,2);
+			wtbcbdfr1oS = wtbcbdfr1o.toString();
+			form.vtbcbdfr1o.value = wtbcbdfr1oS + " " + this.tbcbdfr1.units_cu ;
+	}	
+
+////////////
+	else if (form.vtbcbdfr1nts[2].checked) {
+			wtbcbdfr1o = (wtbcbdfr1 * convfctr3);
+			wtbcbdfr1o = roundtd(wtbcbdfr1o,3);
+			wtbcbdfr1oS = wtbcbdfr1o.toString();
+			form.vtbcbdfr1o.value = wtbcbdfr1oS + " " + this.tbcbdfr1.limcu_hgh ;
+	}	
+	else if (form.vtbcbdfr1nts[3].checked) {
+			wtbcbdfr1o = (wtbcbdfr1 / convfctr3);
+			wtbcbdfr1o = roundtd(wtbcbdfr1o,2);
+			wtbcbdfr1oS = wtbcbdfr1o.toString();
+			form.vtbcbdfr1o.value = wtbcbdfr1oS + " " + this.tbcbdfr1.limcu_lw  ;
+	}	
+
+
+//////////
+	else if (form.vtbcbdfr1nts[4].checked) {
+			wtbcbdfr1o = (wtbcbdfr1 * convfctr2);
+			wtbcbdfr1o = roundtd(wtbcbdfr1o,3);
+			wtbcbdfr1oS = wtbcbdfr1o.toString();
+			form.vtbcbdfr1o.value = wtbcbdfr1oS + " " + vmols ;
+	}	
+	else if (form.vtbcbdfr1nts[5].checked) {
+			wtbcbdfr1o = (wtbcbdfr1 / convfctr2);
+			wtbcbdfr1o = roundtd(wtbcbdfr1o,2);
+			wtbcbdfr1oS = wtbcbdfr1o.toString();
+			form.vtbcbdfr1o.value = wtbcbdfr1oS + " " + vgrams ;
+	}	
+
+
+
+}
+
+
+
+
+this.smnxcDOSL();
+</SCRIPT>
+
+<SCRIPT LANGUAGE="Javascript">
+this.smnxpTRE();
+</SCRIPT>
+
+</body>
+</html>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

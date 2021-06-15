@@ -1,0 +1,112 @@
+<html><head>
+<title>ProjectX</title>
+
+<meta name="viewport" content="width=1024" />
+
+
+
+
+<LINK REL=STYLESHEET TYPE="text/css" HREF="assets/smxpcss.css">
+
+<SCRIPT LANGUAGE="Javascript" SRC="assets/smena.js"></SCRIPT>
+<SCRIPT LANGUAGE="Javascript" SRC="assets/smnxjs.js"></SCRIPT>
+<SCRIPT LANGUAGE="Javascript" SRC="assets/smnxfd.js"></SCRIPT>
+<SCRIPT LANGUAGE="Javascript" SRC="assets/smnxf7.js"></SCRIPT>
+<SCRIPT LANGUAGE="Javascript" SRC="assets/mcfx00.js"></SCRIPT>
+<SCRIPT LANGUAGE="Javascript" SRC="assets/mcfxtt.js"></SCRIPT>
+
+<SCRIPT LANGUAGE="Javascript" SRC="assets/smenfd.js"></SCRIPT>
+<SCRIPT LANGUAGE="Javascript" SRC="assets/aasmmn.js"></SCRIPT>
+
+<SCRIPT language="javascript">
+smnxCNT = new Array(fdaax000, fdakx000,tbbaiai0,tbcbgnr1);
+document.title = smnxCNT[3].name + " ("+vUnitConversion+") :: " + smnxCNT[0].name;
+
+
+
+tbcbgnr1o = tbcbgnr1;
+mcepInpts = new Array(tbcbgnr1);
+mcepOtpts = new Array(tbcbgnr1o);
+</SCRIPT>
+</head>
+
+<body bgcolor="#F6F6F6" topmargin="0" leftmargin="0" text="#000000" link="#006699" alink="#6699CC" 
+vlink="#006699" onLoad="this.smnxNLD();"> 
+
+
+<SCRIPT LANGUAGE="Javascript">
+this.smnxcUNOL();
+
+
+function checkValz(val) {
+	if ((isNaN(val)) || (val == null)  || (val == "") || (val < 0) || (val > 99999) ) {
+		alert(msgMC1);
+		smnxform.vtbcbgnr1.value = "";
+		return false;
+	}
+	return true;
+}
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+function CmptFrm(form){  
+
+///////////////////////////////////////////////////////////////////////
+	var wtbcbgnr1 = Number( form.vtbcbgnr1.value);
+	if (!checkValz(wtbcbgnr1)) return false;
+
+
+
+////////////set and change result value                                   
+///////////////////////////////////////////////////////////////////////  
+	if (form.vtbcbgnr1nts[0].checked) {
+			wtbcbgnr1o = (wtbcbgnr1 * this.tbcbgnr1.cf_cusi);
+			wtbcbgnr1o = roundtd(wtbcbgnr1o,2);
+			wtbcbgnr1oS = wtbcbgnr1o.toString();
+			form.vtbcbgnr1o.value = wtbcbgnr1oS + " " + this.tbcbgnr1.units_si ;
+	}	
+
+	else if (form.vtbcbgnr1nts[1].checked) {
+			wtbcbgnr1o = (wtbcbgnr1 / this.tbcbgnr1.cf_cusi);
+			wtbcbgnr1o = roundtd(wtbcbgnr1o,2);
+			wtbcbgnr1oS = wtbcbgnr1o.toString();
+			form.vtbcbgnr1o.value = wtbcbgnr1oS + " " + this.tbcbgnr1.units_cu ;
+	}	
+
+	
+
+
+
+}
+
+
+
+
+this.smnxcDOSL();
+</SCRIPT>
+
+<SCRIPT LANGUAGE="Javascript">
+this.smnxpTRE();
+</SCRIPT>
+
+</body>
+</html>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

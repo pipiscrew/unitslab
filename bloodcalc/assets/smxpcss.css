@@ -1,0 +1,507 @@
+
+.smnndx {BORDER-RIGHT: #3399CC 1px solid;}
+.smnxtbbrdB {width=100%; align=center; border=0; cellpadding=1; cellspacing=1; 
+background-color:#E6E6E6;BORDER-RIGHT: #336699 1px solid;BORDER-LEFT: #336699 1px solid;
+BORDER-BOTTOM: #336699 1px solid;BORDER-TOP: #336699 1px solid;}
+.smnxtbbrdY {width=100%; align=center; border=0; cellpadding=1; cellspacing=1; 
+background-color:#E6E6E6;BORDER-RIGHT: #BB8822 1px solid;BORDER-LEFT: #BB8822 1px solid;
+BORDER-BOTTOM: #BB8822 1px solid;BORDER-TOP: #BB8822 1px solid;}
+
+.smnxtbbrdR {width=100%; align=center; border=0; cellpadding=1; cellspacing=1; 
+background-color:#E6E6E6;BORDER-RIGHT: #BB2222 1px solid;BORDER-LEFT: #BB2222 1px solid;
+BORDER-BOTTOM: #BB2222 1px solid;BORDER-TOP: #BB2222 1px solid;}
+.smnxtbbrdD {width=100%; align=center; border=0; cellpadding=1; cellspacing=1; 
+background-color:#E6E6E6;BORDER-RIGHT: #999933 1px solid;BORDER-LEFT: #999933 1px solid;
+BORDER-BOTTOM: #999933 1px solid;BORDER-TOP: #999933 1px solid;}
+.smnxtbbrdG {width=100%; align=center; border=0; cellpadding=1; cellspacing=1; 
+background-color:#E6E6E6;BORDER-RIGHT: #00788B 1px solid;BORDER-LEFT: #00788B 1px solid;
+BORDER-BOTTOM: #00788B 1px solid;BORDER-TOP: #00788B 1px solid;}
+
+.smnxtbbrdB_CH {width=100%; align=center; border=0; cellpadding=1; cellspacing=1; 
+background-color:#F3F3F6;BORDER-RIGHT: #336699 1px solid;BORDER-LEFT: #336699 1px solid;
+BORDER-BOTTOM: #336699 1px solid;BORDER-TOP: #336699 1px solid;}
+
+.smnPNbb {BORDER-BOTTOM: #333333 1px solid;}
+.smnPN {BORDER-BOTTOM: #999999 1px solid;}
+.smnPNt {BORDER-TOP: #999999 1px solid;}
+.smnPN2t {BORDER-TOP: #000000 2px solid;}
+.smnPNtb {BORDER-TOP: #000000 1px solid;}
+.smnPNr {BORDER-RIGHT: #000000 1px solid; valign=top}
+.smnPNr2 {BORDER-RIGHT: #000000 2px solid;}
+.smnPNb2 {BORDER-BOTTOM: #000000 2px solid;}
+.smnPNrb {BORDER-BOTTOM: #000000 2px solid;BORDER-RIGHT: #000000 2px solid;}
+
+.smnPNtbl {width=100%; align=center; border=0; cellpadding=0; cellspacing=0; 
+background-color:#d3d9df;BORDER-RIGHT: #336699 1px solid;BORDER-LEFT: #336699 1px solid;
+BORDER-BOTTOM: #336699 1px solid;BORDER-TOP: #336699 1px solid;}
+
+
+A {color:#0066CC;}
+A:hover {color:#003366;}
+A.sv:visited {color:#0066CC;}
+
+A {color:#006699;}
+A:hover {color:#CC6600;}
+A.sv:visited {color:#0066AA;}
+A:active {color:#6699CC;}
+
+
+A.cont {color:#003366;}
+A.cont:hover {color:#0066CC;}
+
+A.qcks {color:#FFCC66;}
+A.qcks:hover {color:#33CCFF;}
+A.qcks:active {color:#99CCFF;}
+
+
+
+
+
+/*/////////included////////////////////*/
+A.hpb {color:#003366;text-decoration: none;}
+A.hpb:hover {color:#CC6600;}
+A.hpb:active {color:#0066AA;}
+
+A.hpbr {color:#003366;}
+A.hpbr:hover {color:#993333;}
+A.hpbr:active {color:#0066CC;}
+
+A.hpbs {color:#708090;text-decoration: none;}
+A.hpbs:hover {color:#CC6600;}
+A.hpbs:active {color:#6699CC;}
+
+A.hpbf {color:#002230;}
+A.hpbf:hover {color:#CC6600;}
+A.hpbf:active {color:#166070;}
+
+
+/*/////////included////////////////////*/
+A.redol {color:#336699;text-decoration: none;}
+A.redol:hover {color:#CC6600;}
+A.redol:active {color:#0066AA;}
+
+A.reg {color:#003366;}
+A.reg:hover {color:#66CCFF;}
+A.reg:active {color:#DDEEFF;}
+
+A.mdxp1 {color:#ccc688;}
+//////////A.mdxp1:hover {color:#eee9aa;}
+A.mdxp1:hover {color:#ffffff;}
+A.mdxp1:active {color:#66CCFF;}
+
+A.mdxp2 {color:#333333;}
+A.mdxp2:hover {color:#ffffff;}
+A.mdxp2:active {color:#66CCFF;}
+
+A.mdxp3 {color:#003366;}
+A.mdxp3:hover {color:#EEEEEE;}
+A.mdxp3:active {color:#0066AA;}
+
+A.blkrd {color:#000000;}
+A.blkrd:hover {color:#993333;}
+A.blblk {color:#002255;}
+A.blblk:hover {color:#000000;}
+
+A.toolLink {color:#6699CC;}
+A.toolLink:hover {color:#EEEEEE;}
+A.toolLink:active {color:#FFCC66;}
+
+
+A.mcolb {color:#66CCFF;text-decoration: none;}
+A.mcolb:hover {color:#EEEEEE;}
+A.mcolb:active {color:#FFCC66;}
+
+
+A.cont2 {color:#666666;}
+A.cont2:hover {color:#0066CC;}
+A.cont2:active {color:#6699CC;}
+
+
+A.mcol {color:#336699;}
+A.mcol:hover {color:#0066CC;}
+A.mcoly {color:#CC9933;}
+A.mcoly:hover {color:#0066CC;}
+A.mcoln {color:#996633;}
+A.mcoln:hover {color:#0066CC;}
+A.statLink {color:#FFFFFF;}
+A.statLink:hover {color:#66CCFF;}
+A.regor {color:#66CCFF;}
+A.regor:hover {color:#003366;}
+A.mchelp {color:#0099CC;}
+A.mchelp:hover {color:#003366;}
+A.mcol2 {color:#0066CC;}
+A.mcol2:hover {color:#996633;}
+A.tutb {color:#336699;}
+A.tutb:hover {color:#666666;}
+A.tutb:active {color:#6699CC;}
+
+A.adv {color:#CC6600;}
+A.adv:hover {color:#003366;}
+A.adv:active {color:#0066AA;}
+
+.indx {font-size:10pt; font-family: verdana,sans-serif; font-weight:bold;color:#3399CC;}
+A.indx {text-align:center;background-color:#EEEEEE;font-family:verdana;font-size:10pt;color:#50688f;font-weight:bold;}
+A.indx:hover {text-align:center;background-color:#3380b0;font-family:verdana;font-size:10pt;color:#33CCFF;font-weight:bold;}
+
+.indxx {font-size:10pt; font-family: verdana,sans-serif; font-weight:bold;color:#003366;}
+A.indxx {text-align:center;font-family:verdana;font-size:10pt;color:#000000;font-weight:bold;}
+A.indxx:hover {text-align:center;font-family:verdana;font-size:10pt;color:#50688f;font-weight:bold;}
+
+
+
+.menu_bcaax {font-size: 8pt; vertical-align: middle; color: #ffffff; font-family: tahoma,Helvetica,Arial,sans-serif}
+.menu_bcaax_bg {background-color: #3380b0}
+.menu_bcaax_sp {background-color: #F6F6F6}
+.menu_bcaax_hi {background-color: #166083}
+
+.menu_fdaax {font-size: 8pt; vertical-align: middle; color: #ffffff; font-family: tahoma,Helvetica,Arial,sans-serif}
+.menu_fdaax_bg {background-color: #00788B}
+.menu_fdaax_sp {background-color: #F6F6F6}
+.menu_fdaax_hi {background-color: #166070}
+
+.menu_chaax {font-size: 8pt; vertical-align: middle; color: #ffffff; font-family: tahoma,Helvetica,Arial,sans-serif}
+.menu_chaax_bg {background-color: #CC6619}
+.menu_chaax_sp {background-color: #F6F6F6}
+.menu_chaax_hi {background-color: #874310}
+
+
+
+.crd {font-size:10pt; font-family: helvetica,arial,sans-serif; font-weight: bold; color:#FFFFFF;}
+.tb {font-size:10pt; font-family: arial, sans-serif; font-weight:bold;}
+.a6p {font-size:6pt; font-family: arial,sans-serif; font-weight:plain;}
+.a7p {font-size:7pt; font-family: arial,sans-serif; font-weight:plain;}
+/*/////////included////////////////////*/
+.a1p {font-size:7.5pt; font-family: arial,sans-serif; font-weight:plain;}
+.a8 {font-size:10px; font-family: arial,sans-serif; font-weight:bold;}
+/*/////////included////////////////////*/
+.v1p {font-size:7.5pt; font-family: verdana,sans-serif; font-weight:plain;}
+.mc {font-size:8pt; font-family: arial, sans-serif; font-weight:bold;}
+.a8n {font-size:7.5pt; font-family: arial, sans-serif; font-weight:plain; color:#99CCFF;}
+/*/////////included////////////////////*/
+.a1bb {font-size:7.5pt; font-family: arial,sans-serif; font-weight: bold; color:#006699;}
+
+.abt {font-size:10pt; font-family: verdana,arial,sans-serif; font-weight: bold; color:#336699;}
+/*/////////included////////////////////*/
+.v1b {font-size:7.5pt; font-family: verdana,arial,sans-serif; font-weight: bold; color:#003366;}
+.v2b {font-size:10pt; font-family: verdana,arial,sans-serif; font-weight: bold; color:#003366;}
+.v3b {font-size:12pt; font-family: verdana,arial,sans-serif; font-weight: bold; color:#003366;}
+.v1bp {font-size:7.5pt; font-family: verdana,arial,sans-serif; font-weight: plain; color:#003366;}
+.v2bp {font-size:10pt; font-family: verdana,arial,sans-serif; font-weight: plain; color:#003366;}
+.v3bp {font-size:12pt; font-family: verdana,arial,sans-serif; font-weight: plain; color:#003366;}
+.v1 {font-size:7.5pt; font-family: verdana,sans-serif; font-weight:bold;}
+.v8 {font-size:8pt; font-family: verdana,sans-serif; font-weight:bold;}
+/*/////////included////////////////////*/
+.v2 {font-size:10pt; font-family: verdana,arial,sans-serif; font-weight: bold; color:#000000;}
+.v3 {font-size:12pt; font-family: verdana,arial,sans-serif; font-weight: bold; color:#000000;}
+/*/////////included////////////////////*/
+.v2p {font-size:10pt; font-family: verdana,arial,sans-serif; font-weight: plain; color:#000000;}
+.v3p {font-size:12pt; font-family: verdana,arial,sans-serif; font-weight: plain; color:#000000;}
+
+.nvlst {font-size: 10px; font-family: verdana, helvetica, sans-serif;}
+
+.mct {font-size:10pt; font-family: verdana,arial,sans-serif; font-weight: plain; color:#000000;}
+.gl {font-size:13pt; font-family: verdana,arial,sans-serif; font-weight: bold; color:#000000;}
+.ai {font-size:7.5pt; font-family: verdana,sans-serif; font-weight:bold; color:#0066CC;}
+.t8 {font-size:8pt; font-family: tahoma,sans-serif; font-weight:plain;}
+/*/////////included////////////////////*/
+.t8a {font-size:8pt; font-family: tahoma,sans-serif; font-weight:plain; color:#003366;}
+.t8g {font-size:8pt; font-family: tahoma,sans-serif; font-weight:plain; color:#556677;}
+.t8r {font-size:8pt; font-family: tahoma,sans-serif; font-weight:plain; color:#993333;}
+.t9a {font-size:9pt; font-family: tahoma,sans-serif; font-weight:plain; color:#003366;}
+
+.t9 {font-size:9pt; font-family: tahoma,sans-serif; font-weight:plain;color:#000000;}
+.t9b {font-size:9pt; font-family: tahoma,sans-serif; font-weight:plain;color:#003399;}
+.t9bb {font-size:9pt; font-family: tahoma,sans-serif; font-weight:bold;color:#003399;}
+.t9r {font-size:9pt; font-family: tahoma,sans-serif; font-weight:plain;color:#CC0000;}
+
+.t12b {font-size:12pt; font-family: tahoma,sans-serif; font-weight:bold;color:#003366;}
+.t13b {font-size:13pt; font-family: tahoma,sans-serif; font-weight:bold;color:#003366;}
+/*/////////included////////////////////*/
+.t14b {font-size:14pt; font-family: tahoma,sans-serif; font-weight:bold;color:#003366;}
+.t13f {font-size:13pt; font-family: tahoma,sans-serif; font-weight:bold;color:#F6F6F6;}
+.t24b {font-size:20pt; font-family: tahoma,sans-serif; font-weight:bold;color:#CCCCCC;}
+.t20f {font-size:20pt; font-family: tahoma,sans-serif; font-weight:bold;color:#F6F6F6;}
+/*/////////included////////////////////*/
+
+.t18b {font-size:20px; font-family: tahoma,sans-serif; font-weight:bold;color:#9fafbf;}
+/*/////////old one abovew  9fafbf////////50a4ca///82c0df//5588BB///93c6e0//*/
+/*////////#93c6e0// es el nuevo es mas prendido//////*/
+
+.t18b {font-size:20px; font-family: tahoma,sans-serif; font-weight:bold;color:#99b0cc;}
+.t18f {font-size:20px; font-family: tahoma,sans-serif; font-weight:bold;color:#99b9bf;}
+.t18w {font-size:20px; font-family: tahoma,sans-serif; font-weight:bold;color:#e9e9e9;}
+
+
+
+.t24 {font-size:24pt; font-family: tahoma,sans-serif; font-weight: bold; color:#CCCCCC;}
+
+.a2 {font-size:10pt; font-family: arial, sans-serif; font-weight:bold;}
+.a8p {font-size:8pt; font-family: arial, sans-serif; font-weight:plain;}
+.a9p {font-size:9pt; font-family: arial, sans-serif; font-weight:plain;}
+.a9pn {font-size:9pt; font-family: arial narrow, helvetica narrow, sans-serif narrow, sans-serif; font-weight:plain;}
+.a2p {font-size:10pt; font-family: arial, sans-serif; font-weight:plain;}
+.aidox {font-size:11pt; font-family: arial, sans-serif; font-weight:plain;color:#000000;}
+.a10r {font-size:10pt; font-family: arial, sans-serif; font-weight:plain;color:#CC0000;}
+.a10b {font-size:10pt; font-family: arial, sans-serif; font-weight:plain;}
+
+.aR10b {font-size:11pt; font-family:"Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif; font-weight:bold;color:#000000;}
+
+.t10 {font-size:10pt; font-family: tahoma,sans-serif; font-weight:plain;color:#000000;}
+.t10a {font-size:10pt; font-family: tahoma,sans-serif; font-weight:plain;color:#003366;}
+
+.t10b {font-size:10pt; font-family: tahoma,sans-serif; font-weight:plain;color:#003399;}
+.t10bb {font-size:10pt; font-family: tahoma,sans-serif; font-weight:bold;color:#003399;}
+.t10r {font-size:10pt; font-family: tahoma,sans-serif; font-weight:plain;color:#CC0000;}
+.t11bb {font-size:11pt; font-family: verdana,sans-serif; font-weight:bold; color=#003366}
+
+.v9 {font-size:9pt; font-family: verdana,arial,sans-serif; font-weight: plain; color:#000000;}
+.v10 {font-size:10pt; font-family: verdana,arial,sans-serif; font-weight: plain; color:#000000;}
+.v10b {font-size:10pt; font-family: verdana,arial,sans-serif; font-weight: plain; color:#003366;}
+.v10r {font-size:10pt; font-family: verdana,arial,sans-serif; font-weight: plain; color:#CC0000;}
+
+.v2bw {font-size:10pt; font-family: verdana,arial,sans-serif; font-weight: bold; color:#f6f6f6;}
+
+.t8z {font-size:8pt; font-family: tahoma,sans-serif; font-weight:bold; color:#003366;}
+
+.t8b {font-size:8pt; font-family: tahoma,sans-serif; font-weight:bold;}
+/*/////////included////////////////////*/
+.t8bb {font-size:8pt; font-family: tahoma,sans-serif; font-weight:bold; color:#003366;}
+.t8baz {font-size:8pt; font-family: tahoma,sans-serif; font-weight:plain; color:#336699;}
+.t7pb {font-size:7pt; font-family: tahoma,sans-serif; font-weight:plain; color:#003366;}
+.t7pk {font-size:7pt; font-family: tahoma,sans-serif; font-weight:plain; color:#333333;}
+.t7b {font-size:7pt; font-family: tahoma,sans-serif; font-weight:bold;}
+.t7pa {font-size:7pt; font-family: tahoma,sans-serif; font-weight:plain; color:#006699;}
+
+.tut {font-size:10pt; font-family: verdana,arial,sans-serif; font-weight: bold;}
+.lbst {font-size:7pt; font-family: verdana,arial,sans-serif; font-weight: plain; color:#666666;}
+.lbsc {font-size:9pt; font-family: verdana,arial,sans-serif; font-weight: plain; color:#003366;}
+.lbss {font-size:9pt; font-family: verdana,arial,sans-serif; font-weight: plain; color:#990000;}
+.lbsa {font-size:10pt; font-family: verdana,arial,sans-serif; font-weight: plain; color:#003366;}
+.ndx {font-size:12pt; font-family: verdana,arial,sans-serif; font-weight: bold; color:#003366;}
+
+.aif {font-size:10pt; font-family: verdana,arial,sans-serif; font-weight: bold; color:#CC9933;}
+.aih {font-size:12pt; font-family: verdana,arial,sans-serif; font-weight: bold; color:#225588;}
+.t16 {font-size:12pt; font-family: tahoma,sans-serif; font-weight: bold; color:#CCCCCC;}
+
+.h11b {font-size:11pt; font-family: helvetica,arial,sans-serif; font-weight:plain;color:#000000;}
+.h12b {font-size:12pt; font-family: helvetica,arial,sans-serif; font-weight:plain;color:#000000;}
+.h10b {font-size:10pt; font-family: helvetica,arial,sans-serif; font-weight:plain;color:#000000;}
+.h14pp {font-size:10pt; font-family: helvetica,arial,sans-serif; font-weight:plain;color:#000000; text-shadow: 0px 1px 0px #fff;}
+.h14ppe {font-size:10pt; font-family: helvetica,arial,sans-serif; font-weight:plain;color:#000000; text-shadow: 0px 1px 0px #ddd;}
+.h10bps {font-size:9pt; font-family: helvetica,arial,sans-serif; font-weight:plain;color:#000000; text-shadow: 0px 1px 0px #fff;}
+.h7b {font-size:7pt; font-family: helvetica,arial,sans-serif; font-weight:plain;color:#000000;}
+.h7bg {font-size:7pt; font-family: helvetica,arial,sans-serif; font-weight:plain;color:#667788;}
+.h75b {font-size:7.5pt; font-family: helvetica,arial,sans-serif; font-weight:plain;color:#000000;}
+.h8b {font-size:8pt; font-family: helvetica,arial,sans-serif; font-weight:plain;color:#000000;}
+.h8bb {font-size:8pt; font-family: helvetica,arial,sans-serif; font-weight:bold;color:#000000;}
+.h9b {font-size:9pt; font-family: helvetica,arial,sans-serif; font-weight:plain;color:#000000;}
+.h9bw {font-size:9pt; font-family: helvetica,arial,sans-serif; font-weight:plain;color:#FFFFFF;}
+.h9bs {font-size:9pt; font-family: helvetica,arial,sans-serif; font-weight:plain;color:#000000; text-shadow: 0px 1px 0px #fff;}
+.h13pps {font-size:9pt; font-family: helvetica,arial,sans-serif; font-weight:plain;color:#000000;text-shadow: 0px 1px 0px #fff;}
+.h13ppb {font-size:10pt; font-family: helvetica,arial,sans-serif; font-weight:plain;color:#003366; text-shadow: 0px 1px 0px #fff;}
+
+.h09pbb {font-size:9pt; font-family: helvetica,arial,sans-serif; font-weight:plain;color:#002244; text-shadow: 0px 1px 0px #fff;}
+.h13bbls {font-size:13pt; font-family: helvetica,arial,sans-serif; font-weight:bold;color:#003366; text-shadow: 0px 0px 0px #fff;}
+.h20gb {font-size:20px; font-family: helvetica,arial,sans-serif; font-weight:bold;color:#e9e9e9;}
+.h10armtb {font-size:10pt; font-family: Arial Rounded MT Bold,arial,verdana,sans-serif; font-weight: plain; color:#000000;}
+.t13fh {font-size:11pt; font-family: helvetica,arial,sans-serif; font-weight:bold;color:#222222;  text-shadow: 0px 1px 0px #fff;}
+
+.h11xe {font-size:11pt; font-family: helvetica,arial,sans-serif; font-weight:bold;color:#000000; text-shadow: 0px 1px 0px #eee;}
+
+.r24 {font-size:24pt; font-family: Raleway, helvetica, arial,sans-serif; font-weight:plain;color:#000000;}
+.r18 {font-size:18pt; font-family: Raleway, helvetica, arial,sans-serif; font-weight:plain;color:#000000;}
+.r15 {font-size:15pt; font-family: Raleway, helvetica, arial,sans-serif; font-weight:plain;color:#000000;}
+.r14 {font-size:14pt; font-family: Raleway, helvetica, arial,sans-serif; font-weight:plain;color:#000000;}
+.r13 {font-size:13pt; font-family: Raleway, helvetica, arial,sans-serif; font-weight:plain;color:#000000;}
+.r12 {font-size:12pt; font-family: Raleway, helvetica, arial,sans-serif; font-weight:plain;color:#000000;}
+.r11bb {font-size:11pt; font-family: Raleway, helvetica, arial,sans-serif; font-weight:plain;color:#003366;}
+.r12g {font-size:12pt; font-family: Raleway, helvetica, arial,sans-serif; font-weight:plain;color:#555555;}
+.r11 {font-size:11pt; font-family: Raleway, helvetica, arial,sans-serif; font-weight:plain;color:#000000;}
+.r10 {font-size:10pt; font-family: Raleway, helvetica, arial,sans-serif; font-weight:plain;color:#000000;}
+.r9 {font-size:9pt; font-family: Raleway, helvetica, arial,sans-serif; font-weight:plain;color:#000000;}
+.r8 {font-size:8pt; font-family: Raleway, helvetica, arial,sans-serif; font-weight:plain;color:#000000;}
+.r8bl {font-size:8pt; font-family: Raleway, helvetica, arial,sans-serif; font-weight:plain;color:#007CFF;}
+.r75 {font-size:7.5pt; font-family: Raleway,helvetica, arial,sans-serif; font-weight:plain;color:#000000;}
+
+
+
+/*/////////included////////////////////*/
+.aimc {font-size:8pt; font-family: tahoma,sans-serif; font-weight: plain; color:#CCCCCC;}
+.aimd {font-size:9pt; font-family: verdana,arial,sans-serif; font-weight: plain; color:#666666;}
+
+
+.smnx_hd1 {
+	BORDER-RIGHT: #00a5db 1px solid; BORDER-TOP: #00a5db 1px solid; BACKGROUND: #00a5db; BORDER-LEFT: #00a5db 1px solid; BORDER-BOTTOM: #00a5db 1px solid
+}
+.smnx_hdFD3 {
+	BACKGROUND: #e6e6e6; BORDER-BOTTOM: #00788B 4px solid;
+}
+
+.smnx_hdFD2 {
+	BORDER-RIGHT: #00788B 1px solid; BORDER-TOP: #00788B 1px solid; BACKGROUND: #eeeeee; BORDER-LEFT: #00788B 1px solid; BORDER-BOTTOM: #00788B 2px solid;
+}
+
+.smnx_hdFD1 {
+	BACKGROUND: #00788B; /////////#00788B
+}
+.smnx_hdBC2 {
+	BORDER-RIGHT: #3380b0 1px solid; BORDER-TOP: #3380b0 1px solid; BACKGROUND: #e9eef6; BORDER-LEFT: #3380b0 1px solid; BORDER-BOTTOM: #3380b0 4px solid;
+}
+
+.smnx_hdBC1 {
+	BACKGROUND: #166083; 
+}
+
+
+
+
+.smnx_hdCH3 {
+	BACKGROUND: #e6e6e6; BORDER-BOTTOM: #CC6619 4px solid;
+}
+
+.smnx_hdCH2 {
+	BORDER-RIGHT: #874310 1px solid; BORDER-TOP: #874310 1px solid; BACKGROUND: #eeeeee; BORDER-LEFT: #874310 1px solid; BORDER-BOTTOM: #874310 2px solid;
+}
+
+.smnx_hdCH1 {
+	BACKGROUND: #4E5965; 
+}
+
+
+.smnx_PRbkb {
+	BORDER-RADIUS:7px; BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BACKGROUND: #F3F3F3; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid;
+}
+
+.smnx_PRbkbG {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BACKGROUND: #F6f6f6; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid;
+}
+
+.smnx_PRbkbGr {
+	BORDER-RADIUS:7px; BORDER-RIGHT: #445566 1px solid; BORDER-TOP: #445566 1px solid; BACKGROUND: #F6f6f6; BORDER-LEFT: #445566 1px solid; BORDER-BOTTOM: #445566 1px solid;
+}
+
+.smnx_PRanyU {
+	BORDER-RADIUS:6px; BORDER: #CCCCCC 1px solid; BACKGROUND: #F6f6f6;
+}
+
+
+.smnx_PRbkbA {
+	BACKGROUND: #FFFFFF; BORDER-BOTTOM: #666666 1px solid;
+}
+
+.smnx_PRbB {
+	BACKGROUND: #d3d9df; BORDER-BOTTOM: #666666 1px solid;
+}
+
+.mcPR_npts {
+	BORDER-RADIUS:7px; BORDER: #333333 1px solid; BACKGROUND: #EEEEDD; 
+	
+}
+.mcPR_tpts {
+	BORDER-RADIUS:7px; BORDER: #333333 1px solid; BACKGROUND: #d3d9df; 
+	
+}
+
+.navtext {
+width:300px;
+font-size:10pt;
+font-family:verdana;
+border-width:2px;
+border-style:outset;
+border-color:#003366;
+layer-background-color:#FFF6D9;
+background-color:#FFF6D9;
+color:black;
+}
+
+div#smEQ{ margin: 0 10%;background: #afbfcf}
+b.eqtop, b.eqbottom{display:block;background: #F6F6F6}
+b.eqtop b, b.eqbottom b{display:block;height: 1px; overflow: hidden; background: #AFCADD}
+b.eq1{margin: 0 5px}
+b.eq2{margin: 0 3px}
+b.eq3{margin: 0 2px}
+b.eqtop b.eq4, b.eqbottom b.eq4{margin: 0 1px;height: 2px}
+
+div#smP4P{ margin: 0 10%;background: #ddddff}
+b.p4top, b.p4bottom{display:block;background: #F6F6F6}
+b.p4top b, b.p4bottom b{display:block;height: 1px; overflow: hidden; background: #ddddff}
+b.p41{margin: 0 5px}
+b.p42{margin: 0 3px}
+b.p43{margin: 0 2px}
+b.p4top b.p44, b.p4bottom b.p44{margin: 0 1px;height: 2px}
+
+div#smE6F6{ margin: 0 0%;background: #e6e6e6}
+b.ftop, b.fbottom{display:block;background: #F6F6F6}
+b.ftop b, b.fbottom b{display:block;height: 1px; overflow: hidden; background: #e6e6e6}
+b.f1{margin: 0 5px}
+b.f2{margin: 0 3px}
+b.f3{margin: 0 2px}
+b.ftop b.f4, b.fbottom b.f4{margin: 0 1px;height: 2px}
+
+
+
+a {text-decoration:none}
+
+
+
+.encabezadoGray-wrapper {
+    margin: 0px;
+}
+
+.encabezadoGray-wrapper ul {
+    font-weight: bold;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    list-style: none;
+    padding: 0;
+    border: solid 1px #999999;
+    background-color: #fff;
+    -webkit-border-radius: 8px;
+	font-family:helvetica,sans-serif;
+    font-size: 19px;
+    line-height: 16px;
+    padding: 0;
+	 background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(204,204,204,0.1)), to(rgba(204,204,204,0.9)));
+ -webkit-tap-highlight-color: transparent;
+
+}
+
+
+.encabezadoGray-wrapper h1 {
+	 background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(187,187,187,0)), to(rgba(187,187,187,1)));
+    color: #000000;
+    font-size: 10pt;
+    line-height: 24px;
+    font-weight: bold;
+    text-shadow: #ccc 0 1px 0;
+    margin: 0;
+    padding: 0px 2px 0px;
+}
+
+.encabezadoGray-wrapper h2 {
+	 background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(187,187,187,0.1)), to(rgba(187,187,187,1)));
+    color: #222222;
+	font-family:helvetica,sans-serif;
+    font-size: 10pt;
+    line-height: 20px;
+    font-weight: bold;
+    text-shadow: #eee 0 1px 0;
+    margin: 0;
+    padding: 0px 2px 0px;
+}
+
+ .grupo-wrapper ul {
+    background-color: #fff;
+    -webkit-border-radius: 16px;
+    font-size: 19px;
+    line-height: 20px;
+    padding: 0;
+      background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(204,204,204,0.25)), to(rgba(204,204,204,0.9)));
+ -webkit-tap-highlight-color: transparent;
+}
+
+
+
+
+</STYLE>
+
